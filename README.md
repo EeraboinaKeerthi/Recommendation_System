@@ -54,3 +54,6 @@ Limited diversity (stuck in a “filter bubble”).
 
 Requires detailed item metadata.
 
+Collaborative filtering struggles with sparse data.
+
+Content-based filtering works better with sparse ratings.
